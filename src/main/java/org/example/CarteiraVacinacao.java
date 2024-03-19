@@ -1,2 +1,5 @@
-package org.example;public class CarteiraVacinacao {
+package org.example;
+
+public interface CarteiraVacinacao {
+    String emitir();
 }

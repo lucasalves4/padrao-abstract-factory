@@ -1,2 +1,6 @@
-package org.example;public class HistoricoAnimal {
+package org.example;
+
+public interface HistoricoAnimal {
+
+    String emitir();
 }
